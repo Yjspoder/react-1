@@ -1,0 +1,61 @@
+* {
+  font-size: 15px;
+  font-weight: 900;
+  margin: 20px auto;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+
+}
+
+
+
+/*Size*/
+
+.small {
+  padding: 20px 0;
+  display: block;
+  cursor: pointer;
+  width: 140px;
+}
+.medium {
+  padding: 20px 0;
+  display: block;
+  cursor: pointer;
+  width: 250px;
+}
+.large {
+  padding: 20px 0;
+  display: block;
+  cursor: pointer;
+  width: 400px;
+}
+
+/*Colors*/
+
+.primary {
+  background: #193586;
+  color: #ffffff;
+  border: none;
+}
+.secondary {
+ background: #9B9B9B;
+ color: #ffffff;
+ border: none;
+}
+.tertiary {
+  background: #ffffff;
+  color: #193586;
+  border: 2px solid #193586
+}
+
+/* No Border */
+.noBorder {
+  border: none;
+}
+
+/*FontAwesome */
+.icon {
+  margin: 0;
+  padding: 0;
+}
